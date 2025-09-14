@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jual Gelang Pink Manis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Jual Gelang Pink Cantik ✨</h1>
+        <p>Gelang handmade warna pink yang manis dan elegan, cocok untuk dipakai sehari-hari atau hadiah spesial.</p>
+    </header>
+
+    <main>
+        <section class="gelang-product">
+            <img src="gelang-pink.jpg" alt="Gelang Pink Manis">
+            <h2>Gelang Pink Manis</h2>
+            <p class="price">Harga: Rp 10.000</p>
+            <p class="description">Gelang tali serut warna pink, bisa disesuaikan dengan ukuran pergelangan tangan. Desain simpel, elegan, dan nyaman dipakai.</p>
+            <a href="https://wa.me/6282141037765?text=Halo%20kak,%20saya%20tertarik%20dengan%20gelang%20pink%20seharga%20Rp%2010.000." class="cta-button">Pesan Sekarang via WA</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>Copyright © 2025 Toko Gelang Pink</p>
+    </footer>
+
+</body>
+</html>
